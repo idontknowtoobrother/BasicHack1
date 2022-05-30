@@ -1,0 +1,11 @@
+﻿  BasicHack1.cpp
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(68,41): warning C4305: 'initializing': truncation from '__int64' to 'DWORD'
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(68,28): warning C4309: 'initializing': truncation of constant value
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(56,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(72): message : see reference to function template instantiation 'void wpm<int>(dataType,DWORD)' being compiled
+          with
+          [
+              dataType=int
+          ]
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(56,2): error C3861: 'WriteProceessMemmory': identifier not found
+C:\Users\hex\source\repos\BasicHack1\BasicHack1\BasicHack1.cpp(56,2): message : 'WriteProceessMemmory': function was not declared in the template definition context and can be found only via argument-dependent lookup in the instantiation context
